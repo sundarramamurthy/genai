@@ -1,0 +1,6 @@
+2025-12-23 12:28:11.810287: One Masala Dosa and one Filter Coffee
+2025-12-23 12:28:42.320369: One Paneer Tikka - ₹250
+2025-12-23 13:52:35.625893: One Masala Dosa and one Filter Coffee
+2025-12-23 14:05:21.480673: Pongal, Vada
+2025-12-23 14:55:25.036018: 1 Pongal, 2 Vada, 1 Filter Coffee - Total: ₹140
+2025-12-23 18:24:47.640446: One Masala Dosa and One Filter Coffee
