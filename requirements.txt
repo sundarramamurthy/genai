@@ -1,0 +1,7 @@
+google-adk
+flask
+twilio
+pyngrok
+python-dotenv
+google-genai
+pandas
